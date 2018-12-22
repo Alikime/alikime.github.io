@@ -3,7 +3,7 @@
 This task comprises of an online portfolio for the practical task. The project section contains the link to the myModel.py (Spyder - python file)
 
 ## Preview
-
+[![Resume Preview](https://github.com/Alikime/alikime.github.io/blob/master/img/PreviewImage.jpg)]
 (https://alikime.github.io/)
 
 **[View Live Preview](https://alikime.github.io/)**
