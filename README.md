@@ -1,6 +1,6 @@
 # [Assesment 1 - GEOG5990](https://alikime.github.io/)
 
-This task comprises of an online portfolio for the practical task. The project section contains the link to the myModel.py (Spyder - python file)
+This task comprises of an online portfolio for the practical task. The project section contains the link to the myModel.py (Spyder - python file)..
 
 ## Preview
 [![Resume Preview](https://github.com/Alikime/alikime.github.io/blob/master/img/PreviewImage.JPG)]
