@@ -2,7 +2,7 @@
 
 This task comprises of an online portfolio for the practical task. The project section contains the link to the Geog5990_final.py (Spyder - python file).
 
-##To Run the Program
+## To Run the Program
 You need the following files;
 
 Main program: Geog5990_final.py
