@@ -1,6 +1,16 @@
 # [Assesment 1 - GEOG5990](https://alikime.github.io/)
 
-This task comprises of an online portfolio for the practical task. The project section contains the link to the myModel.py (Spyder - python file).
+This task comprises of an online portfolio for the practical task. The project section contains the link to the Geog5990_final.py (Spyder - python file).
+
+##To Run the Program
+You need the following files;
+
+Main program: Geog5990_final.py
+Function files; distance_between.py 
+
+Note that Main program must be in the same folder as function files.
+
+To run, open the main program in either spyder or jupiter notebook for python and click run.
 
 ## Project Documentation 
 
