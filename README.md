@@ -12,6 +12,13 @@ Note that Main program must be in the same folder as function files.
 
 To run, open the main program in either spyder or jupiter notebook for python and click run.
 
+## Input/Output
+
+The user initially defines the number og Agents and number of iterations as input. 
+
+Output: The program plots multiple agent coordinates (based on the number of agents defined as input, 20 for example)
+The program also has the distance_between function; The function recieves as input; two arbitary agents (two rows in the agents list, each containing two values), and calculates how far apart they are, to produce the distance value as output. 
+
 ## Project Documentation 
 
 ### Overview 
