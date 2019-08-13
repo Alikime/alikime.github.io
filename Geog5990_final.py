@@ -11,7 +11,7 @@ import random
 import matplotlib.pyplot
 from distance_between import distance_between
 
-#This defines the number of agaents we have 
+#This defines the number of agents we have 
 num_of_agents = 20 
 num_of_iterations = 100 
 agents = []
