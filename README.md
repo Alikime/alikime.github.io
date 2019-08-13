@@ -16,8 +16,8 @@ To run, open the main program in either spyder or jupiter notebook for python an
 
 The user initially defines the number of agents and number of iterations as input. 
 
-Output: The program plots multiple agent coordinates (based on the number of agents defined as input, 20 for example)
-The program also has the distance_between function; The function recieves as input; two arbitary agents (two rows in the agents list, each containing two values), and calculates how far apart they are, to produce the distance value as output. 
+Output: The program plots multiple agent on a 2 dimentional pattern (based on the number of agents defined as input, in this case i used 20 agents)
+The program also has the distance_between function; The function recieves as input; two arbitary agents (two rows in the agents list, each containing two values), and picks 2 agents at random and calculates how far apart they are, to produce the distance value as output. 
 
 ## Project Documentation 
 
