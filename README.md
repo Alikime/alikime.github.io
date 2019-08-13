@@ -1,11 +1,11 @@
 # [Assesment 1 - GEOG5990](https://alikime.github.io/)
 
-This task comprises of an online portfolio for the practical task. The project section contains the link to the Geog5990_final.py (Spyder - python file).
+This task comprises of an online portfolio for the practical task. The project section contains the link to the Geog5990_AgentBasedModel.py (Spyder - python file).
 
 ## To Run the Program
 You need the following files;
 
-Main program: Geog5990_final.py
+Main program: Geog5990_AgentBasedModel.py
 Function files; distance_between.py 
 
 Note that Main program must be in the same folder as function files.
